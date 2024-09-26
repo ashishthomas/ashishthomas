@@ -1,6 +1,11 @@
 ![snake gif](https://github.com/ashishthomas/ashishthomas/blob/output/github-snake.svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!👋+I'm+Ashish+Sunil+Thomas" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://github.com/oraclebrain/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=WELCOME%20TO%20MY%20GITHUB%20PROFILE;HI!👋%20I'M%20ASHISH%20SUNIL%20THOMAS;FRONT%20END%20DEVELOPER;WEB%20DEVELOPER;SOFTWARE%20ENGINEER%20;2%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
 <h3 align="center">A passionate Frontend Developer, Web Developer, and Software Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" alt="animation" />
