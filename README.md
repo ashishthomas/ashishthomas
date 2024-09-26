@@ -1,3 +1,5 @@
+![snake gif](https://github.com/ashishthomas/ashishthomas/blob/output/github-snake.svg)
+
 <h1 align="center">Hi 👋, I'm Ashish Sunil Thomas</h1>
 <h3 align="center">A passionate Frontend Developer, Web Developer, and Software Developer from India</h3>
 
@@ -26,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishthomas&show_icons=true&locale=en" alt="ashishthomas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishthomas&" alt="ashishthomas" /></p>
+
+
