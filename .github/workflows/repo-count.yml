@@ -16,7 +16,7 @@ jobs:
       - name: Get repository count
         id: get_repos
         run: |
-REPO_COUNT=$(curl -s https://api.github.com/users/Lysciprianno/repos | jq '. | length')
+REPO_COUNT=$(curl -s https://api.github.com/users/ashishthomas/repos | jq '. | length')
           echo "repo_count=$REPO_COUNT" >> $GITHUB_ENV
  
       - name: Generate Hello Kitty output
