@@ -1,4 +1,8 @@
-![snake gif](https://github.com/ashishthomas/ashishthomas/blob/output/github-snake.svg)
+<picture align="center">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashishthomas/ashishthomas/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashishthomas/ashishthomas/output/github-contribution-grid-snake-dark.svg">
+<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashishthomas/ashishthomas/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p align="center">
   <a href="https://github.com/oraclebrain/readme-typing-svg">
