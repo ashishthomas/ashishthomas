@@ -19,6 +19,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishthomas&label=Profile%20views&color=0e75b6&style=flat" alt="ashishthomas" /> </p>
 
+
 - 🌱 I’m currently learning **REDUX, NextJs, GenAI**
 
 - 📫 How to reach me **ashishthomas1995@gmail.com**
