@@ -62,11 +62,14 @@
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishthomas&show_icons=true&locale=en&layout=compact" alt="ashishthomas" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishthomas&show_icons=true&locale=en&layout=compact&theme=dark" alt="ashishthomas" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishthomas&show_icons=true&locale=en" alt="ashishthomas" /></p>
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashishthomas&layout=compact&theme=dark) -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishthomas&" alt="ashishthomas" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishthomas&show_icons=true&locale=en&theme=dark" alt="ashishthomas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishthomas&theme=dark" alt="ashishthomas" /></p>
 
 <hr/>
 
