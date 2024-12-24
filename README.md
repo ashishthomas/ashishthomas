@@ -73,8 +73,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishthomas&show_icons=true&locale=en&theme=dark" alt="ashishthomas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishthomas&theme=dark" alt="ashishthomas" /></p>
-
 <hr/>
 
 <div align="center">
