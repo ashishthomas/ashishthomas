@@ -6,8 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/oraclebrain/readme-typing-svg">
-<!--     <img src="https://readme-typing-svg.demolab.com/?lines=WELCOME%20TO%20MY%20GITHUB%20PROFILE;HI!👋%20I'M%20ASHISH%20SUNIL%20THOMAS;FRONT%20END%20DEVELOPER;WEB%20DEVELOPER;SOFTWARE%20ENGINEER%20;2%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" /> -->
-    ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=WELCOME%20TO%20MY%20GITHUB%20PROFILE;HI!👋%20I'M%20ASHISH%20SUNIL%20THOMAS;FRONT%20END%20DEVELOPER;WEB%20DEVELOPER;SOFTWARE%20ENGINEER%20;2%2B%20YEAR%27s%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22)
+  <img src="https://readme-typing-svg.demolab.com/?lines=WELCOME%20TO%20MY%20GITHUB%20PROFILE;HI!👋%20I'M%20ASHISH%20SUNIL%20THOMAS;FRONT%20END%20DEVELOPER;WEB%20DEVELOPER;SOFTWARE%20ENGINEER%20;2%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" /> 
 
   </a>
 </p>
@@ -49,7 +48,9 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+</a>
   <a href="[https://redux.js.org](https://redux-toolkit.js.org/)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
   </a>  
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
