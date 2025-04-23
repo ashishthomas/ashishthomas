@@ -8,9 +8,10 @@
   <a href="https://github.com/oraclebrain/readme-typing-svg">
 <!--     <img src="https://readme-typing-svg.demolab.com/?lines=WELCOME%20TO%20MY%20GITHUB%20PROFILE;HI!👋%20I'M%20ASHISH%20SUNIL%20THOMAS;FRONT%20END%20DEVELOPER;WEB%20DEVELOPER;SOFTWARE%20ENGINEER%20;2%2B%20YEAR's%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=fira%20Code&center=true&width=440&height=35&color=20C20E&vCenter=true&pause=1000&size=22" />  -->
 <!-- <img src="https://readme-typing-svg.demolab.com/?lines=WELCOME%20TO%20MY%20GITHUB%20PROFILE;HI!👋%20I'M%20ASHISH%20SUNIL%20THOMAS;FRONT%20END%20DEVELOPER;WEB%20DEVELOPER;SOFTWARE%20ENGINEER;2%2B%20YEARS%20OF%20CODING%20EXPERIENCE;ALWAYS%20LEARNING%20NEW%20THINGS&font=Fira%20Code&width=700&height=50&color=20C20E&size=24&pause=1000&center=true" /> -->
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=20C20E&width=700&lines=WELCOME+TO+MY+GITHUB+PROFILE;HI!👋+I'M+ASHISH+SUNIL+THOMAS;FRONT+END+DEVELOPER;WEB+DEVELOPER;SOFTWARE+ENGINEER;2%2B+YEARS+OF+CODING+EXPERIENCE;ALWAYS+LEARNING+NEW+THINGS" alt="Typing SVG" />
-</p>
+</div>
+
 
 
 
