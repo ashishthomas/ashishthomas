@@ -22,7 +22,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishthomas&label=Profile%20views&color=0e75b6&style=flat" alt="ashishthomas" /> </p>
 
 
-- 📫 How to reach me **ashishthomas1995@gmail.com**
+- 📫 How to reach me **ashishthomas13@zohomail.in**
 
 - ⚡ Fun fact **I am Creative with Pixel Perfect 😎**
 
